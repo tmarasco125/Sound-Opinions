@@ -1,5 +1,5 @@
 # Sound Opinions
-Sound Opinions is a workflow
+Sound Opinions is a workflow for creating generative music through sentiment analysis of web-based text 
 
 Anthony T. Marasco
 LSU Experimental Music & Digital Media (2018)
